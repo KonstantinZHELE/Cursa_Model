@@ -10,7 +10,7 @@ namespace Cursa_Model
     {
         private void y0()
         {
-            
+
         }
         private void setDgvs(DataGridView dgvX, UInt32 valX)
         {
@@ -36,3 +36,5 @@ namespace Cursa_Model
 
             }
         }
+    }
+}
